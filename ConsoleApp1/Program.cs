@@ -8,7 +8,9 @@ namespace ConsoleApp1
         {
             // Console.WriteLine("Hello World!");
             Console.Write("Deneme commit :)");
+            Console.Write("Deneme commit :)");
             Console.ReadKey();
+            //deneme fat-8
         }
     }
 }
