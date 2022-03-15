@@ -11,7 +11,7 @@ namespace ConsoleApp1
             Console.Write("Deneme commit :)");
             Console.Write("new branch commit :)");
 
-            Console.Write("FAT-9 new commit two:)");
+            Console.Write("FAT-9 new commit two update :)");
             Console.ReadKey();
             //deneme fat-8
         }
